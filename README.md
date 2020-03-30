@@ -10,4 +10,6 @@ V0.2 save system and load system
 
 V0.3 Added 3rd Incrementor. Thats literally all i did.
 
-V0.4 Added 4th Incrementor. (still not pushed yet)
+V0.4 Added 4th Incrementor. 
+
+V0.5 Scientific Notation achieved along with the 5th incrementor
