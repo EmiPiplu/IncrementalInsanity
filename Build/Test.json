@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
-"productName": "New Unity Project",
-"productVersion": "0.1",
+"productName": "IncrementalInsanity",
+"productVersion": "V0.7",
 "dataUrl": "Test.data.unityweb",
 "wasmCodeUrl": "Test.wasm.code.unityweb",
 "wasmFrameworkUrl": "Test.wasm.framework.unityweb",
