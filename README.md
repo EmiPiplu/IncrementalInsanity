@@ -15,3 +15,5 @@ V0.4 Added 4th Incrementor.
 V0.5 Scientific Notation achieved along with the 5th incrementor
 
 V0.6 After long enough waiting we finally have a full collection of 8 incrementors
+
+V0.7 "the break your finger update" Now adds the booster. gain a boost to all incrementors when you buy any incrementor
